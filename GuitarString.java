@@ -1,5 +1,6 @@
 /**
  * GuitarString.java
+ * Dependencies: RingBuffer.java
  *
  * Simulates the plucking and vibration of a guitar string.
  *

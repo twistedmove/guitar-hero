@@ -3,7 +3,7 @@
  *
  * Compilation:  javac GuitarHero.java
  * Execution:    java GuitarHero
- * Dependencies: StdDraw.java StdAudio.java
+ * Dependencies: RingBuffer.java GuitarString.java StdDraw.java StdAudio.java
  *
  * @author chindesaurus
  * @version 1.00
